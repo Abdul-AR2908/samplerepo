@@ -1,3 +1,7 @@
+<?php
+    $connect = "I am backend";
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -6,7 +10,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Hi I am html</h1>
-    <h1>I am front end</h1>
+    <h1>I am backend</h1>
 </body>
 </html>
